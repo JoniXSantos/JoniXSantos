@@ -13,7 +13,8 @@ You can reach me and find out about my background here: [![LinkedIn](https://img
 ### Learning
 - HTML
 - CSS
-- JavaScript
+- JavaScript / React
+- Python
 
 ## 📉 Stats
 
