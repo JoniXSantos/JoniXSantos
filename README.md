@@ -3,6 +3,7 @@ Hi there 👋
 ## 🙋‍♂️ About me
 
 I'm a 🇵🇹🇪🇺 Portuguese boy, building my career to become a Full Stack Developer 🔥
+
 My focus will be on front-end and I'm excited to see what awaits for me in the future 😆
 
 ![image](https://i.pinimg.com/originals/75/c2/f8/75c2f842863ae2df6b3ac2d0a4d63026.gif)
